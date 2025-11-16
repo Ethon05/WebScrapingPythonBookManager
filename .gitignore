@@ -44,6 +44,7 @@ scraper.log
 # Project specific
 books_data.csv
 books_data.json
+books.db
 
 # Testing
 .pytest_cache/
