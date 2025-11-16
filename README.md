@@ -323,8 +323,8 @@ Potential improvements for production use:
 
 ## Author Information
 
-**Name:** [Your Name Here]  
-**Email:** [your.email@example.com]  
+**Name:** [Ehteshamul Islam]  
+**Email:** [ehteshamul.islam.cse@ulab.edu.bd]  
 **Role:** ScrapeMaster-X  
 **Project:** Web Scraping Intern Assignment  
 **Date:** November 2025  
